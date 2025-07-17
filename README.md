@@ -1,6 +1,6 @@
 Viewing‑Only License (V‑OL) 1.0, July 2025
 
-© 2025 [Your Name or Organization]. All rights reserved.
+© 2025 Jifor Studio Games. All rights reserved.
 
 1. Definitions  
    “Repository” means the source code, assets, documentation and other materials made available in this GitHub repository.  
@@ -23,12 +23,12 @@ Viewing‑Only License (V‑OL) 1.0, July 2025
    Any violation of Section 3 will automatically terminate this license, and the Viewer must immediately cease all access and viewing of the Repository and delete any copies held in cache or memory.
 
 6. Governing Law  
-   This License is governed by and shall be construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict‑of‑law provisions.
+   This License is governed by and shall be construed in accordance with the laws of JiforStudioGames, without regard to its conflict‑of‑law provisions.
 
 7. Contact  
    To request permission for actions beyond the scope of this License, please contact:  
-   [Your Name]  
-   [Email Address]  
+   JiforStudioGames  
+   jiforstudiogames.help@gmail.com  
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––  
 By viewing this Repository, you acknowledge that you have read, understood, and agree to be bound by the terms of this Viewing‑Only License.  
