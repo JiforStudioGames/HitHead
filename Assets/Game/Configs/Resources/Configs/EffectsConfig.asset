@@ -1,0 +1,684 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fe0bf22da044881922442111adfa0f5, type: 3}
+  m_Name: EffectsConfig
+  m_EditorClassIdentifier: 
+  Effects3D:
+    _serializedList:
+    - Key: 0
+      Value: {fileID: 970440554703164915, guid: 47096eff328e11a418ace7db2d72aa97,
+        type: 3}
+    - Key: 1
+      Value: {fileID: 2095606205811567574, guid: bddb971e34eb14d48be30c7b922eb077,
+        type: 3}
+    - Key: 2
+      Value: {fileID: 1301697207402410478, guid: 39f852c28f9c3fd45a427c24f3564ba7,
+        type: 3}
+    - Key: 5
+      Value: {fileID: 2740321307519119334, guid: 5bc9a0bf98f67d240a936bf476ba2082,
+        type: 3}
+    - Key: 6
+      Value: {fileID: 4508117539550737482, guid: da34d66431c8cd04aa98411a543a83bf,
+        type: 3}
+  EffectsGlobal:
+    _serializedList:
+    - Key: 0
+      Value:
+      - Provider:
+          rid: 4401977661389799427
+        AnimCurve:
+          serializedVersion: 2
+          m_Curve:
+          - serializedVersion: 3
+            time: 0
+            value: 1
+            inSlope: 0.7620866
+            outSlope: 0.7620866
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0
+            outWeight: 0.63573116
+          - serializedVersion: 3
+            time: 0.57118756
+            value: 1.0933304
+            inSlope: -0.63335973
+            outSlope: -0.63335973
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0.39502063
+            outWeight: 0.09639451
+          - serializedVersion: 3
+            time: 1
+            value: 1
+            inSlope: 0.7547901
+            outSlope: 0.7547901
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0.08676338
+            outWeight: 0
+          m_PreInfinity: 2
+          m_PostInfinity: 2
+          m_RotationOrder: 4
+        AnimProgress: 16
+        DelayBeforeEffect: 0
+        Duration: 0.25
+      - Provider:
+          rid: 4401977661389799429
+        AnimCurve:
+          serializedVersion: 2
+          m_Curve:
+          - serializedVersion: 3
+            time: 0
+            value: 1
+            inSlope: 0.030714668
+            outSlope: 0.030714668
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0
+            outWeight: 0.13771507
+          - serializedVersion: 3
+            time: 0.5073734
+            value: 1.01
+            inSlope: 0.0010732308
+            outSlope: 0.0010732308
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0.103985935
+            outWeight: 0.11950195
+          - serializedVersion: 3
+            time: 1
+            value: 1
+            inSlope: 0.06308755
+            outSlope: 0.06308755
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0.10683864
+            outWeight: 0
+          m_PreInfinity: 2
+          m_PostInfinity: 2
+          m_RotationOrder: 4
+        AnimProgress: 10
+        DelayBeforeEffect: 0
+        Duration: 0.25
+    - Key: 1
+      Value:
+      - Provider:
+          rid: 4401977661389799425
+        AnimCurve:
+          serializedVersion: 2
+          m_Curve:
+          - serializedVersion: 3
+            time: 0
+            value: 1
+            inSlope: 0.22411373
+            outSlope: 0.22411373
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0
+            outWeight: 0.09546539
+          - serializedVersion: 3
+            time: 0.5073734
+            value: 1.026798
+            inSlope: -0.2307713
+            outSlope: -0.2307713
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0.103985935
+            outWeight: 0.080818854
+          - serializedVersion: 3
+            time: 1
+            value: 1
+            inSlope: 0.18126425
+            outSlope: 0.18126425
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0.10005164
+            outWeight: 0
+          m_PreInfinity: 2
+          m_PostInfinity: 2
+          m_RotationOrder: 4
+        AnimProgress: 10
+        DelayBeforeEffect: 0
+        Duration: 0.3
+      - Provider:
+          rid: 4401977661389799430
+        AnimCurve:
+          serializedVersion: 2
+          m_Curve:
+          - serializedVersion: 3
+            time: 0
+            value: 1
+            inSlope: 0.7620866
+            outSlope: 0.7620866
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0
+            outWeight: 0.63573116
+          - serializedVersion: 3
+            time: 0.57118756
+            value: 1.0933304
+            inSlope: -1.687968
+            outSlope: -1.687968
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0.39502063
+            outWeight: 0.04983863
+          - serializedVersion: 3
+            time: 1
+            value: 1
+            inSlope: 1.4658971
+            outSlope: 1.4658971
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0.21033469
+            outWeight: 0
+          m_PreInfinity: 2
+          m_PostInfinity: 2
+          m_RotationOrder: 4
+        AnimProgress: 16
+        DelayBeforeEffect: 0
+        Duration: 0.3
+      - Provider:
+          rid: 4401977661389799428
+        AnimCurve:
+          serializedVersion: 2
+          m_Curve:
+          - serializedVersion: 3
+            time: 0
+            value: 0
+            inSlope: 0.7620866
+            outSlope: 0.7620866
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0
+            outWeight: 0.63573116
+          - serializedVersion: 3
+            time: 0.50569683
+            value: 0.32431793
+            inSlope: -2.943762
+            outSlope: -2.943762
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0.39502063
+            outWeight: 0.12275514
+          - serializedVersion: 3
+            time: 1
+            value: 0
+            inSlope: 1.4658971
+            outSlope: 1.4658971
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0.21033469
+            outWeight: 0
+          m_PreInfinity: 2
+          m_PostInfinity: 2
+          m_RotationOrder: 4
+        AnimProgress: 16
+        DelayBeforeEffect: 0
+        Duration: 0.3
+      - Provider:
+          rid: 4401977663896682496
+        AnimCurve:
+          serializedVersion: 2
+          m_Curve:
+          - serializedVersion: 3
+            time: 0
+            value: 0
+            inSlope: 0.7620866
+            outSlope: 0.7620866
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0
+            outWeight: 0.63573116
+          - serializedVersion: 3
+            time: 0.49830735
+            value: 0.62356496
+            inSlope: 0.025632745
+            outSlope: 0.025632745
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0.39502063
+            outWeight: 0.18953237
+          - serializedVersion: 3
+            time: 1
+            value: 0
+            inSlope: -0.8447242
+            outSlope: -0.8447242
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0.2297251
+            outWeight: 0
+          m_PreInfinity: 2
+          m_PostInfinity: 2
+          m_RotationOrder: 4
+        AnimProgress: 10
+        DelayBeforeEffect: 0
+        Duration: 0.3
+      - Provider:
+          rid: 4401977664183730178
+        AnimCurve:
+          serializedVersion: 2
+          m_Curve:
+          - serializedVersion: 3
+            time: 0
+            value: 1
+            inSlope: 2.6320975
+            outSlope: 2.6320975
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0
+            outWeight: 0.15110022
+          - serializedVersion: 3
+            time: 0.5099168
+            value: 0.0997448
+            inSlope: 0.025632745
+            outSlope: 0.025632745
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0.39502063
+            outWeight: 0.18953237
+          - serializedVersion: 3
+            time: 1
+            value: 1
+            inSlope: -2.5347612
+            outSlope: -2.5347612
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0.1232198
+            outWeight: 0
+          m_PreInfinity: 2
+          m_PostInfinity: 2
+          m_RotationOrder: 4
+        AnimProgress: 10
+        DelayBeforeEffect: 0
+        Duration: 0.1
+    - Key: 3
+      Value:
+      - Provider:
+          rid: 4401977661389799425
+        AnimCurve:
+          serializedVersion: 2
+          m_Curve:
+          - serializedVersion: 3
+            time: 0
+            value: 1
+            inSlope: 0.22411373
+            outSlope: 0.22411373
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0
+            outWeight: 0.09546539
+          - serializedVersion: 3
+            time: 0.5073734
+            value: 1.026798
+            inSlope: -0.1644859
+            outSlope: -0.1644859
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0.103985935
+            outWeight: 0.080818854
+          - serializedVersion: 3
+            time: 1
+            value: 1
+            inSlope: 0.18126425
+            outSlope: 0.18126425
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0.10005164
+            outWeight: 0
+          m_PreInfinity: 2
+          m_PostInfinity: 2
+          m_RotationOrder: 4
+        AnimProgress: 10
+        DelayBeforeEffect: 0
+        Duration: 0.35
+      - Provider:
+          rid: 4401977661389799430
+        AnimCurve:
+          serializedVersion: 2
+          m_Curve:
+          - serializedVersion: 3
+            time: 0
+            value: 1
+            inSlope: 0.7620866
+            outSlope: 0.7620866
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0
+            outWeight: 0.63573116
+          - serializedVersion: 3
+            time: 0.57118756
+            value: 1.0933304
+            inSlope: -1.8938842
+            outSlope: -1.8938842
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0.39502063
+            outWeight: 0.041373987
+          - serializedVersion: 3
+            time: 1
+            value: 1
+            inSlope: 1.4658971
+            outSlope: 1.4658971
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0.21033469
+            outWeight: 0
+          m_PreInfinity: 2
+          m_PostInfinity: 2
+          m_RotationOrder: 4
+        AnimProgress: 10
+        DelayBeforeEffect: 0
+        Duration: 0.35
+      - Provider:
+          rid: 4401977661389799428
+        AnimCurve:
+          serializedVersion: 2
+          m_Curve:
+          - serializedVersion: 3
+            time: 0
+            value: 0
+            inSlope: 0.7620866
+            outSlope: 0.7620866
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0
+            outWeight: 0.63573116
+          - serializedVersion: 3
+            time: 0.50569683
+            value: 0.32431793
+            inSlope: -4.700443
+            outSlope: -4.700443
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0.04428292
+            outWeight: 0.12275514
+          - serializedVersion: 3
+            time: 1
+            value: 0
+            inSlope: 1.4658971
+            outSlope: 1.4658971
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0.21033469
+            outWeight: 0
+          m_PreInfinity: 2
+          m_PostInfinity: 2
+          m_RotationOrder: 4
+        AnimProgress: 10
+        DelayBeforeEffect: 0
+        Duration: 0.35
+      - Provider:
+          rid: 4401977664183730176
+        AnimCurve:
+          serializedVersion: 2
+          m_Curve:
+          - serializedVersion: 3
+            time: 0
+            value: 0
+            inSlope: 0.7620866
+            outSlope: 0.7620866
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0
+            outWeight: 0.63573116
+          - serializedVersion: 3
+            time: 0.49830735
+            value: 0.62356496
+            inSlope: 0.025632745
+            outSlope: 0.025632745
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0.39502063
+            outWeight: 0.18953237
+          - serializedVersion: 3
+            time: 1
+            value: 0
+            inSlope: -0.8447242
+            outSlope: -0.8447242
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0.2297251
+            outWeight: 0
+          m_PreInfinity: 2
+          m_PostInfinity: 2
+          m_RotationOrder: 4
+        AnimProgress: 10
+        DelayBeforeEffect: 0
+        Duration: 0.35
+      - Provider:
+          rid: 4401977664183730177
+        AnimCurve:
+          serializedVersion: 2
+          m_Curve:
+          - serializedVersion: 3
+            time: 0
+            value: 1
+            inSlope: 0.7620866
+            outSlope: 0.7620866
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0
+            outWeight: 0.63573116
+          - serializedVersion: 3
+            time: 0.50101817
+            value: 0.06274885
+            inSlope: 0.025632745
+            outSlope: 0.025632745
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0.39502063
+            outWeight: 0.18953237
+          - serializedVersion: 3
+            time: 1
+            value: 1
+            inSlope: -0.8447242
+            outSlope: -0.8447242
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0.2297251
+            outWeight: 0
+          m_PreInfinity: 2
+          m_PostInfinity: 2
+          m_RotationOrder: 4
+        AnimProgress: 10
+        DelayBeforeEffect: 0
+        Duration: 0.3
+    - Key: 4
+      Value:
+      - Provider:
+          rid: 4401977661389799425
+        AnimCurve:
+          serializedVersion: 2
+          m_Curve:
+          - serializedVersion: 3
+            time: 0
+            value: 1
+            inSlope: 0.22411373
+            outSlope: 0.22411373
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0
+            outWeight: 0.09546539
+          - serializedVersion: 3
+            time: 0.5073734
+            value: 1.026798
+            inSlope: -0.1644859
+            outSlope: -0.1644859
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0.103985935
+            outWeight: 0.080818854
+          - serializedVersion: 3
+            time: 1
+            value: 1
+            inSlope: 0.18126425
+            outSlope: 0.18126425
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0.10005164
+            outWeight: 0
+          m_PreInfinity: 2
+          m_PostInfinity: 2
+          m_RotationOrder: 4
+        AnimProgress: 10
+        DelayBeforeEffect: 0
+        Duration: 0.4
+      - Provider:
+          rid: 4401977661389799430
+        AnimCurve:
+          serializedVersion: 2
+          m_Curve:
+          - serializedVersion: 3
+            time: 0
+            value: 1
+            inSlope: 0.7620866
+            outSlope: 0.7620866
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0
+            outWeight: 0.63573116
+          - serializedVersion: 3
+            time: 0.57118756
+            value: 1.0933304
+            inSlope: -1.8938842
+            outSlope: -1.8938842
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0.39502063
+            outWeight: 0.041373987
+          - serializedVersion: 3
+            time: 1
+            value: 1
+            inSlope: 1.4658971
+            outSlope: 1.4658971
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0.21033469
+            outWeight: 0
+          m_PreInfinity: 2
+          m_PostInfinity: 2
+          m_RotationOrder: 4
+        AnimProgress: 10
+        DelayBeforeEffect: 0
+        Duration: 0.4
+      - Provider:
+          rid: 4401977664183730176
+        AnimCurve:
+          serializedVersion: 2
+          m_Curve:
+          - serializedVersion: 3
+            time: 0
+            value: 0
+            inSlope: 0.7620866
+            outSlope: 0.7620866
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0
+            outWeight: 0.63573116
+          - serializedVersion: 3
+            time: 0.49830735
+            value: 0.62356496
+            inSlope: 0.025632745
+            outSlope: 0.025632745
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0.39502063
+            outWeight: 0.18953237
+          - serializedVersion: 3
+            time: 1
+            value: 0
+            inSlope: -0.8447242
+            outSlope: -0.8447242
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0.2297251
+            outWeight: 0
+          m_PreInfinity: 2
+          m_PostInfinity: 2
+          m_RotationOrder: 4
+        AnimProgress: 10
+        DelayBeforeEffect: 0
+        Duration: 0.35
+      - Provider:
+          rid: 4401977664183730177
+        AnimCurve:
+          serializedVersion: 2
+          m_Curve:
+          - serializedVersion: 3
+            time: 0
+            value: 1
+            inSlope: 0.7620866
+            outSlope: 0.7620866
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0
+            outWeight: 0.63573116
+          - serializedVersion: 3
+            time: 0.50101817
+            value: 0.06274885
+            inSlope: 0.025632745
+            outSlope: 0.025632745
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0.39502063
+            outWeight: 0.18953237
+          - serializedVersion: 3
+            time: 1
+            value: 1
+            inSlope: -0.8447242
+            outSlope: -0.8447242
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0.2297251
+            outWeight: 0
+          m_PreInfinity: 2
+          m_PostInfinity: 2
+          m_RotationOrder: 4
+        AnimProgress: 10
+        DelayBeforeEffect: 0
+        Duration: 0.2
+  references:
+    version: 2
+    RefIds:
+    - rid: 4401977661389799425
+      type: {class: CameraZoomProvider, ns: Game.Scripts.Domain.Providers, asm: Assembly-CSharp}
+      data: 
+    - rid: 4401977661389799427
+      type: {class: LensDistortionProvider, ns: Game.Scripts.Domain.Providers, asm: Assembly-CSharp}
+      data: 
+    - rid: 4401977661389799428
+      type: {class: VignetteProvider, ns: Game.Scripts.Domain.Providers, asm: Assembly-CSharp}
+      data:
+        _color: {r: 0, g: 0.071683146, b: 0.6528301, a: 1}
+    - rid: 4401977661389799429
+      type: {class: CameraZoomProvider, ns: Game.Scripts.Domain.Providers, asm: Assembly-CSharp}
+      data: 
+    - rid: 4401977661389799430
+      type: {class: LensDistortionProvider, ns: Game.Scripts.Domain.Providers, asm: Assembly-CSharp}
+      data: 
+    - rid: 4401977663896682496
+      type: {class: ChromaticAberrationProvider, ns: Game.Scripts.Domain.Providers,
+        asm: Assembly-CSharp}
+      data:
+        _targetIntensity: 1
+    - rid: 4401977664183730176
+      type: {class: ChromaticAberrationProvider, ns: Game.Scripts.Domain.Providers,
+        asm: Assembly-CSharp}
+      data:
+        _targetIntensity: 1
+    - rid: 4401977664183730177
+      type: {class: TimeProvider, ns: Game.Scripts.Domain.Providers, asm: Assembly-CSharp}
+      data: 
+    - rid: 4401977664183730178
+      type: {class: TimeProvider, ns: Game.Scripts.Domain.Providers, asm: Assembly-CSharp}
+      data: 

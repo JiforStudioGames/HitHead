@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32fc562b180144c3b6a3304a054c41d0, type: 3}
+  m_Name: ShopConfig
+  m_EditorClassIdentifier: 
+  StartWeapon: {fileID: 11400000, guid: d2331ac48c6f52047a7843f6ae00d4a8, type: 2}
+  Categories:
+    _serializedList:
+    - Key: 0
+      Value:
+        WeaponSlots:
+        - {fileID: 11400000, guid: d2331ac48c6f52047a7843f6ae00d4a8, type: 2}
+    - Key: 1
+      Value:
+        WeaponSlots:
+        - {fileID: 11400000, guid: e201dc5d89bf99d4987730b3434c069a, type: 2}
+        - {fileID: 11400000, guid: 6af3ca2543d3e0d46abcae0ebe9b7c34, type: 2}
+    - Key: 2
+      Value:
+        WeaponSlots:
+        - {fileID: 11400000, guid: 9615626da1d14524dbec36131411613a, type: 2}

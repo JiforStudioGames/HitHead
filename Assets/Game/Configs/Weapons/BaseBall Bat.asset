@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01d7bf5298da40c79fcd7685f5ae5a4b, type: 3}
+  m_Name: BaseBall Bat
+  m_EditorClassIdentifier: 
+  Name: BaseBall Bat
+  Icon: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  Description: Simple baseBall bat
+  EffectForHit: 1
+  LevelRequired: 2
+  VIPRequired: 0
+  CurrencyPriceType: 1
+  Price: 10
+  WeaponType: 2
+  ForceType: 0
+  Stats:
+    _serializedList:
+    - Key: 0
+      Value:
+        TextType: 0
+        Value: 10
+    - Key: 1
+      Value:
+        TextType: 0
+        Value: 4
+    - Key: 2
+      Value:
+        TextType: 1
+        Value: 0.3
+    - Key: 3
+      Value:
+        TextType: 1
+        Value: 0.7
+  MeleeObject: {fileID: 2900996648421389698, guid: bc1cbd18bd6ef6740ab199079f15e7c6,
+    type: 3}
+  MeleeRotation: {x: -8.07, y: 0, z: 35}
+  MeleeOffset: 2.45

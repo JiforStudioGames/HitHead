@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c20e11d9da74a3b88bb800618f3973e, type: 3}
+  m_Name: LevelsConfig
+  m_EditorClassIdentifier: 
+  Levels:
+    _serializedList:
+    - Key: 1
+      Value:
+        ExpForLevel: 10
+        EnemyOnLevel: {fileID: 11400000, guid: 4981b346004af4040836bd01a51c2913, type: 2}
+        AddWeaponForLevel: 0
+        WeaponForLevel: {fileID: 0}
+        AddCurrencyForLevel: 1
+        eCurrency: 1
+        CurrencyValue: 100
+    - Key: 2
+      Value:
+        ExpForLevel: 30
+        EnemyOnLevel: {fileID: 11400000, guid: 4981b346004af4040836bd01a51c2913, type: 2}
+        AddWeaponForLevel: 1
+        WeaponForLevel: {fileID: 11400000, guid: e201dc5d89bf99d4987730b3434c069a,
+          type: 2}
+        AddCurrencyForLevel: 0
+        eCurrency: 1
+        CurrencyValue: 0
+    - Key: 3
+      Value:
+        ExpForLevel: 50
+        EnemyOnLevel: {fileID: 11400000, guid: 4981b346004af4040836bd01a51c2913, type: 2}
+        AddWeaponForLevel: 0
+        WeaponForLevel: {fileID: 0}
+        AddCurrencyForLevel: 0
+        eCurrency: 1
+        CurrencyValue: 300
+    - Key: 4
+      Value:
+        ExpForLevel: 60
+        EnemyOnLevel: {fileID: 11400000, guid: 4981b346004af4040836bd01a51c2913, type: 2}
+        AddWeaponForLevel: 0
+        WeaponForLevel: {fileID: 0}
+        AddCurrencyForLevel: 0
+        eCurrency: 1
+        CurrencyValue: 500
+    - Key: 5
+      Value:
+        ExpForLevel: 100
+        EnemyOnLevel: {fileID: 11400000, guid: 4981b346004af4040836bd01a51c2913, type: 2}
+        AddWeaponForLevel: 0
+        WeaponForLevel: {fileID: 0}
+        AddCurrencyForLevel: 0
+        eCurrency: 2
+        CurrencyValue: 50
