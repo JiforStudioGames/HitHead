@@ -20,8 +20,8 @@ MonoBehaviour:
         EnemyOnLevel: {fileID: 11400000, guid: 4981b346004af4040836bd01a51c2913, type: 2}
         AddWeaponForLevel: 0
         WeaponForLevel: {fileID: 0}
-        AddCurrencyForLevel: 1
-        eCurrency: 1
+        AddCurrencyForLevel: 0
+        Currency: 1
         CurrencyValue: 100
     - Key: 2
       Value:
@@ -31,7 +31,7 @@ MonoBehaviour:
         WeaponForLevel: {fileID: 11400000, guid: e201dc5d89bf99d4987730b3434c069a,
           type: 2}
         AddCurrencyForLevel: 0
-        eCurrency: 1
+        Currency: 0
         CurrencyValue: 0
     - Key: 3
       Value:
@@ -40,7 +40,7 @@ MonoBehaviour:
         AddWeaponForLevel: 0
         WeaponForLevel: {fileID: 0}
         AddCurrencyForLevel: 0
-        eCurrency: 1
+        Currency: 0
         CurrencyValue: 300
     - Key: 4
       Value:
@@ -49,7 +49,7 @@ MonoBehaviour:
         AddWeaponForLevel: 0
         WeaponForLevel: {fileID: 0}
         AddCurrencyForLevel: 0
-        eCurrency: 1
+        Currency: 0
         CurrencyValue: 500
     - Key: 5
       Value:
@@ -58,5 +58,5 @@ MonoBehaviour:
         AddWeaponForLevel: 0
         WeaponForLevel: {fileID: 0}
         AddCurrencyForLevel: 0
-        eCurrency: 2
+        Currency: 0
         CurrencyValue: 50

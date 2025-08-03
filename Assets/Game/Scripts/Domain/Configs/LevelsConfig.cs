@@ -20,13 +20,16 @@ namespace Game.Scripts.Domain.Configs
             
             [Header("Rewards")]
             public bool AddWeaponForLevel;
+            
             [ShowIf("AddWeaponForLevel")] [AllowNesting]
             public WeaponConfig WeaponForLevel;
             
+            [Space]
             public bool AddCurrencyForLevel;
-            [ShowIf("AddWeaponForLevel")] [AllowNesting]
+            
+            [ShowIf("AddCurrencyForLevel")] [AllowNesting]
             public ECurrencyType Currency;
-            [ShowIf("AddWeaponForLevel")] [AllowNesting]
+            [BoxGroup("Currency Reward")] [ShowIf("AddCurrencyForLevel")] [AllowNesting]
             public int CurrencyValue;
         }
         
