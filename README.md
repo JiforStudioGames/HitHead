@@ -6,6 +6,10 @@ This repository serves as a code example for a clean, scalable, and modular game
 
 The core philosophy is a UI-driven event flow, where user interactions (captured by Presenters) delegate complex gameplay logic to specialized Domain Controllers and reusable Services.
 
+---
+`![Project Demo](demo/demo1.gif)`
+---
+
 ## 🏛️ Core Architectural Concepts
 
 The project's logic flows primarily from user interaction, making the UI layer the starting point for most actions.
@@ -72,3 +76,11 @@ This project represents a specific snapshot of an evolving architecture. Some st
 
 * **Installers:** The single `Installers` folder was later refactored. Installers are now co-located with their specific features/domains (e.g., `Scripts/UI/Shop/ShopInstaller.cs`) to improve modularity, with only global installers remaining at the top level.
 * **Services:** Similarly, only truly global services (like `AudioService` or `SaveService`) remained in the `Services` folder. Feature-specific services were moved closer to their respective domain.
+
+## 📞 Future Development & Contact
+
+This project serves as a public code sample. Future projects and more advanced iterations will not be published publicly on GitHub.
+
+To follow my professional journey and see development stages of my current projects, please connect with me on LinkedIn:
+
+**[Connect with me on LinkedIn](https://www.linkedin.com/in/victor-kotik)**
