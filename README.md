@@ -7,7 +7,7 @@ This repository serves as a code example for a clean, scalable, and modular game
 The core philosophy is a UI-driven event flow, where user interactions (captured by Presenters) delegate complex gameplay logic to specialized Domain Controllers and reusable Services.
 
 ---
-`![Project Demo](demo/demo1.gif)`
+![Project Demo](demo/demo1.gif)
 ---
 
 ## 🏛️ Core Architectural Concepts
