@@ -14,7 +14,7 @@ namespace Game.Scripts.Domain.Configs
     public struct GlobalEffectData
     { 
         [SerializeReference, SubclassSelector]
-        public IEffectProvider Provider;
+        public EffectProvider Provider;
         public AnimationCurve AnimCurve;
         public Ease AnimProgress;
         public float DelayBeforeEffect;

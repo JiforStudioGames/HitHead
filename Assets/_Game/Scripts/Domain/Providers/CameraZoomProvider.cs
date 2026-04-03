@@ -3,12 +3,15 @@ using Cysharp.Threading.Tasks;
 using DG.Tweening;
 using Game.Scripts.Domain.Configs;
 using Game.Scripts.Domain.Models;
+using UnityEngine;
 
 namespace Game.Scripts.Domain.Providers
 {
     [Serializable]
     public class CameraZoomProvider : EffectProvider
     {
+        [SerializeField] private string Value;
+        
         private static UnityEngine.Camera _camera;
         private static float _originalFOV;
 

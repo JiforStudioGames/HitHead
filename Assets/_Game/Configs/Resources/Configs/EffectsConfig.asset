@@ -652,7 +652,8 @@ MonoBehaviour:
     RefIds:
     - rid: 4401977661389799425
       type: {class: CameraZoomProvider, ns: Game.Scripts.Domain.Providers, asm: Assembly-CSharp}
-      data: 
+      data:
+        Value: 123
     - rid: 4401977661389799427
       type: {class: LensDistortionProvider, ns: Game.Scripts.Domain.Providers, asm: Assembly-CSharp}
       data: 
@@ -662,7 +663,8 @@ MonoBehaviour:
         _color: {r: 0, g: 0.071683146, b: 0.6528301, a: 1}
     - rid: 4401977661389799429
       type: {class: CameraZoomProvider, ns: Game.Scripts.Domain.Providers, asm: Assembly-CSharp}
-      data: 
+      data:
+        Value: 
     - rid: 4401977661389799430
       type: {class: LensDistortionProvider, ns: Game.Scripts.Domain.Providers, asm: Assembly-CSharp}
       data: 
